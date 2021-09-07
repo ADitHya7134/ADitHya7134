@@ -7,3 +7,4 @@ I also do additional courses like matlab,raspberry pi , data science and deep le
 I practice competitive programming using C/C++ to enhance my problem solving skills
 Practicing competitive coding through sites like hackerrank allows me to refine my skill set .Along
 with coding what I am most well versed is my communication skills and leadership qualities
+https://www.linkedin.com/in/adithya-sathish-6a9497210/
